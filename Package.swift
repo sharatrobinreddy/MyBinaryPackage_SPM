@@ -2,7 +2,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "TestPrivateFramework",
+    name: "MyBinaryPackage_SPM",
     platforms: [
         .iOS(.v13) // Adjust the minimum supported version
     ],
